@@ -7,7 +7,7 @@ print('''_________
         \ | %  ))   |
          \|%________|''')
 print("welcome to Treasure island.")
-direction = input("Your mission is to find the treasure.\n left or wight? \n")
+direction = input("Your mission is to find the treasure.\n left or right? \n")
 if direction == "left":
     x = input("nice choice now choose to swim or wait!\n")
     if x == "wait":
